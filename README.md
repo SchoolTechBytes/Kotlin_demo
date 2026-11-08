@@ -6,7 +6,7 @@ The software is a small command-line RPG simulation written in Kotlin. It define
 
 In writing this program I wanted to demonstrate the core building blocks of the Kotlin language in a single, readable example: mutable and immutable variables (`var` and `val`), expressions, conditionals (`if`/`else`), loops (`for` and `while`), functions, and classes. I also used the program to explore Kotlin's collection types in more depth, specifically creating and modifying a `MutableList` to represent the inventory.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lybG3rXj6Jg)
 
 
 # Development Environment
